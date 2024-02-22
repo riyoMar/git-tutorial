@@ -7,3 +7,5 @@ added new ssh key
 has changed in master branch
 
 changed for feature1 branch
+
+replace feature1 branch with solved conflight merging
