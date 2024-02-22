@@ -3,3 +3,5 @@ change
 changed in new folder
 
 added new ssh key
+
+has changed in master branch
