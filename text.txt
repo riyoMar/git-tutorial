@@ -8,4 +8,4 @@ has changed in master branch
 
 changed for feature1 branch
 
-replace feature1 branch
+replace feature2 branch with solved conflight merging
