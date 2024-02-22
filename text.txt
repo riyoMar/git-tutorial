@@ -5,3 +5,5 @@ changed in new folder
 added new ssh key
 
 has changed in master branch
+
+changed for feature1 branch
